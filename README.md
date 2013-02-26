@@ -1,7 +1,7 @@
 Introduction
 ====================
 
-This is my collection of extensions for PopClip.
+This is my collection of extensions for [PopClip][1].
 
 
 Installation
@@ -16,6 +16,11 @@ Installation
 Available extensions
 ====================
 
-1. Skroutz extension
 
-It will use the selected text to search for products on Skroutz.gr.
+**Skroutz extension**
+------
+
+*It will use the selected text to search for products on Skroutz.gr.*
+
+
+  [1]: http://pilotmoon.com/popclip/
