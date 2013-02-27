@@ -22,5 +22,9 @@ Available extensions
 
 *It will use the selected text to search for products on Skroutz.gr.*
 
+**BestPrice extension**
+------
+
+*It will use the selected text to search for products on Bestprice.gr.*
 
   [1]: http://pilotmoon.com/popclip/
